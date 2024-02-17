@@ -1,27 +1,5 @@
-Article on medium: https://medium.com/@borzifrancesco/which-one-is-the-most-actively-developed-front-end-framework-in-2024-d662c9951ecc
-
 Which one is the most actively developed Front-End framework in 2024? — React vs Angular vs Vue vs Svelte vs Ember
 ==================================================================================================================
-
-[![Francesco Borzì](https://miro.medium.com/v2/resize:fill:88:88/2*U_uzgFuvwPsXxdR9R3vLIA.jpeg)
-
-](https://medium.com/@borzifrancesco?source=post_page-----d662c9951ecc--------------------------------)
-
-[Francesco Borzì](https://medium.com/@borzifrancesco?source=post_page-----d662c9951ecc--------------------------------)
-
-·
-
-[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fdeeac5f73dc0&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40borzifrancesco%2Fwhich-one-is-the-most-actively-developed-front-end-framework-in-2024-d662c9951ecc&user=Francesco+Borz%C3%AC&userId=deeac5f73dc0&source=post_page-deeac5f73dc0----d662c9951ecc---------------------post_header-----------)
-
-4 min read·Feb 2, 2024
-
-\--
-
-3
-
-Listen
-
-Share
 
 Yet another FE framework comparison?
 ====================================
