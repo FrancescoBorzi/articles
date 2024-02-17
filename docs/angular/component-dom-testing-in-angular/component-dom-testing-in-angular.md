@@ -1,3 +1,5 @@
+Article on Medium: https://medium.com/@borzifrancesco/component-dom-testing-in-angular-0d2256414c06
+
 What is Component DOM testing?
 ==============================
 
